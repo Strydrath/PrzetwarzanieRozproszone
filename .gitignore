@@ -333,7 +333,7 @@ ASALocalRun/
 # Local History for Visual Studio
 .localhistory/
 
-.sln
-.vcxproj
-.filters
+*.sln
+*.vcxproj
+*.filters
 
